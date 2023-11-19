@@ -3,5 +3,9 @@ body {
 }
 
 .banner_container {
-    color: #CACACA;
+    background-color: #cacaca;
+}
+
+.banner_column {
+    background-color: #808080;
 }
